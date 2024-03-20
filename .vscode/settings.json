@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/1ba1c4a5-8858-42a4-8952-96591f840cf3/resourceGroups/rg_AIService/providers/Microsoft.Web/sites/AIMagic",
+    "appService.deploySubpath": "."
+}
